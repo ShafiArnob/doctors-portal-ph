@@ -7,7 +7,7 @@ import Services from './Services';
 
 const Home = () => {
   return (
-    <div className='px-12'>
+    <div className='max-w-7xl mx-auto'>
       <Banner></Banner>
       <Info></Info>
       <Services></Services>
